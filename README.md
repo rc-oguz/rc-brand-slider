@@ -3,8 +3,8 @@
 Responsive slider where you can show your brands. You can determine your item impressions by size.
 
 <a href="http://developer.oguzhansengul.com/brand-slider/" target="_blank">Live Demo</a>
-
 <--Install-->
+```
 $("#rcbrand1").rcbrand({
         visibleItems: 4,
         itemsToScroll: 3,
